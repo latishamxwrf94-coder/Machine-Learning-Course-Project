@@ -1,0 +1,59 @@
+{
+  "stage": "final",
+  "name": "imagenet384_half_exploratory_v1",
+  "rmse": 18.564560904882885,
+  "baseline_rmse": 21.056413224276366,
+  "pretrained_repeat_rmse": [
+    19.743146810601324,
+    21.572991759370595
+  ],
+  "pretrained_mean_rmse": 19.942060168796267,
+  "old_fold_rmse": [
+    16.925433069048395,
+    14.709793648885823,
+    29.662026223827585,
+    16.765661984371253,
+    23.050123161055726
+  ],
+  "candidate_fold_rmse": [
+    10.623896374122586,
+    11.802588588263406,
+    27.879954614272716,
+    15.367064308616307,
+    20.88768849030336
+  ],
+  "fold_wins": 5,
+  "eligible_for_submission": true,
+  "strict_confirmation_pass": false,
+  "pilot_pass": false,
+  "training_performed": false,
+  "submission_mode": "user_authorized_exploratory",
+  "extra_oof_reproduction_skipped": true,
+  "blend_weights": {
+    "old_three_seed": 0.5,
+    "pretrained_split20261025": 0.25,
+    "pretrained_split20261026": 0.25
+  },
+  "source_notebooks": [
+    "nested_imagenet384_pilot_v1",
+    "nested_imagenet_resolution_confirmation_v1",
+    "seed192_three_seed_v1"
+  ],
+  "pretrained_source": {
+    "name": "ResNet18_Weights.IMAGENET1K_V1",
+    "url": "https://download.pytorch.org/models/resnet18-f37072fd.pth",
+    "sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec"
+  },
+  "warning": "Old branch used outer-selected checkpoints. Nested pretrained validation and two-split confirmation improve evidence but do not guarantee Public or Private gains.",
+  "submission_file_sha256": "937f5a04565f72a1f2e20dacbbebe937f422ba81883d68d42b25572848758847",
+  "oof_reproduction_max_abs": [
+    null,
+    null
+  ],
+  "changed_rows": 40,
+  "seconds": 56.17577886581421,
+  "gpu_hours": 0.015604383216963873,
+  "remote_artifacts": "zijin233/task3-imagenet-early-half-submission/output",
+  "public_score": 11.6004,
+  "submission_ref": 57629241
+}

@@ -1,0 +1,71 @@
+{
+  "stage": "final",
+  "name": "resnet18_sigma027_matched384_v1",
+  "rmse": 18.70146466253558,
+  "baseline_rmse": 18.56456090488289,
+  "new_sigma027_rmse": 20.15949249267578,
+  "reference_sigma018_rmse": 19.743146810601324,
+  "fold_wins": 3,
+  "fold_records": [
+    {
+      "fold": 0,
+      "epoch": 20,
+      "ce_rmse": 12.827566058871012,
+      "coordinate_rmse": 13.146859169006348
+    },
+    {
+      "fold": 1,
+      "epoch": 80,
+      "ce_rmse": 21.44191633320228,
+      "coordinate_rmse": 18.902149200439453
+    },
+    {
+      "fold": 2,
+      "epoch": 10,
+      "ce_rmse": 12.141176379984008,
+      "coordinate_rmse": 14.692500114440918
+    },
+    {
+      "fold": 3,
+      "epoch": 25,
+      "ce_rmse": 31.263368908305388,
+      "coordinate_rmse": 32.13031005859375
+    },
+    {
+      "fold": 4,
+      "epoch": 40,
+      "ce_rmse": 12.166104335562814,
+      "coordinate_rmse": 14.204060554504395
+    }
+  ],
+  "eligible_for_submission": true,
+  "pretrained_source": {
+    "name": "ResNet18_Weights.IMAGENET1K_V1",
+    "url": "https://download.pytorch.org/models/resnet18-f37072fd.pth",
+    "sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec"
+  },
+  "epochs": [
+    20,
+    80,
+    10,
+    25,
+    40
+  ],
+  "training_change": "Only Gaussian target width changes from.018 to.027. Frozen BatchNorm, architecture, CE objective, seeds, augmentation and archived training durations otherwise identical.",
+  "blend_weights": {
+    "current_best": 0.5,
+    "new_sigma027_ensemble": 0.5
+  },
+  "submission_mode": "user_authorized_exploratory",
+  "limitations": [
+    "Durations selected under sigma.018 may not be optimal under broader sigma.027",
+    "Current best OOF includes outer-selected old U-Net checkpoints; not wholly nested ensemble validation",
+    "Sharp-target prior model worsened Public; this tests the opposite broader-target hypothesis without tuning on Public weights"
+  ],
+  "seconds": 138.15906524658203,
+  "gpu_hours": 0.03837751845518748,
+  "submission_file_sha256": "5945585b9d16116e787c4d5f494a9938c9320bbd28956f1e751b41e080741eb0",
+  "remote_artifacts": "zijin233/task3-sigma027-matched384/output",
+  "public_score": 12.57089,
+  "submission_ref": 57698696
+}

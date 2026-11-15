@@ -1,0 +1,27 @@
+{
+  "selected": "previous_071_50_convnext_small",
+  "val_accuracy": 0.7142857142857143,
+  "baseline_071_val_accuracy": 0.6987270155586988,
+  "selected_weights": {
+    "previous_071": 0.5,
+    "convnext_small": 0.5,
+    "efficientnet_v2_s": 0.0,
+    "swin_v2_t": 0.0
+  },
+  "new_models": [
+    {
+      "model": "convnext_small",
+      "validation_accuracy": 0.7031471004243282
+    },
+    {
+      "model": "efficientnet_v2_s",
+      "validation_accuracy": 0.6805162659123055
+    },
+    {
+      "model": "swin_v2_t",
+      "validation_accuracy": 0.6815770862800565
+    }
+  ],
+  "submission": "/kaggle/working/submission_push80.csv",
+  "note": "No test labels used for selection; 80% is not guaranteed."
+}

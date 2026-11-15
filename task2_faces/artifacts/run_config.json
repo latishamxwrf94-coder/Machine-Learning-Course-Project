@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-16T08:51:16.793170+00:00",
+  "recipes": [
+    {
+      "name": "convnext_small",
+      "arch": "convnext_small",
+      "seed": 3051,
+      "size": 224,
+      "batch_size": 16,
+      "epochs": 24,
+      "patience": 8,
+      "backbone_lr": 5e-05,
+      "head_lr": 0.0002,
+      "wd": 0.01,
+      "dropout": 0.25,
+      "mix_alpha": 0.1,
+      "mix_prob": 0.25,
+      "ema_decay": 0.995,
+      "ema_frequency": 4
+    },
+    {
+      "name": "efficientnet_v2_s",
+      "arch": "efficientnet_v2_s",
+      "seed": 3091,
+      "size": 224,
+      "batch_size": 24,
+      "epochs": 24,
+      "patience": 8,
+      "backbone_lr": 9e-05,
+      "head_lr": 0.00025,
+      "wd": 0.01,
+      "dropout": 0.25,
+      "mix_alpha": 0.08,
+      "mix_prob": 0.18,
+      "ema_decay": 0.995,
+      "ema_frequency": 4
+    },
+    {
+      "name": "swin_v2_t",
+      "arch": "swin_v2_t",
+      "seed": 3127,
+      "size": 256,
+      "batch_size": 16,
+      "epochs": 22,
+      "patience": 7,
+      "backbone_lr": 3e-05,
+      "head_lr": 0.0002,
+      "wd": 0.01,
+      "dropout": 0.15,
+      "mix_alpha": 0.08,
+      "mix_prob": 0.15,
+      "ema_decay": 0.995,
+      "ema_frequency": 4
+    }
+  ],
+  "torch": "2.11.0+cu128",
+  "torchvision": "0.26.0+cu128",
+  "previous_071_mounted": true
+}

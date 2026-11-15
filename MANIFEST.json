@@ -1,0 +1,187 @@
+[
+  {
+    "path": "task1_plants/code/convnext_tiny_repro.py",
+    "source": "D:\\001\\Machine Learning\\2026task1\\convnext_tiny_repro.py",
+    "sha256": "b4c6b661afdee13d764ab845c6a9e59e12aa4a96ca94921fe613fb9f68e194f0"
+  },
+  {
+    "path": "task1_plants/code/neu_plant_final_push.py",
+    "source": "D:\\001\\Machine Learning\\2026task1\\neu_plant_final_push.py",
+    "sha256": "56f0c90f63c5d7a4fadbe700a28844f1e3f46f5c8f56db1130a4b0d03b340335"
+  },
+  {
+    "path": "task1_plants/code/final_method.py",
+    "source": "D:\\001\\Machine Learning\\2026task1\\final_method.py",
+    "sha256": "8fd00e8310156b264250d26bb6bb19c2ed89e738e6298d19e9a4392b4b869e6b"
+  },
+  {
+    "path": "task1_plants/code/RESULT_DIAGNOSIS.md",
+    "source": "D:\\001\\Machine Learning\\2026task1\\RESULT_DIAGNOSIS.md",
+    "sha256": "83f01eda438218f24f6a1d4d42567b471cd9c4d5af8b6cfbe80bb427face6a9a"
+  },
+  {
+    "path": "task1_plants/artifacts/submission_320_seed2026.csv",
+    "source": "C:\\Users\\xuruo\\Downloads\\submission_320_seed2026.csv",
+    "sha256": "d5f3230a831dcee27908b338737037fe1639bcf3c033598e01695051d655fc58"
+  },
+  {
+    "path": "task1_plants/artifacts/oof_predictions_320_seed2026.csv",
+    "source": "C:\\Users\\xuruo\\Downloads\\oof_predictions_320_seed2026.csv",
+    "sha256": "162ef7618c0e9756edf304e969e9f88d98de18f40861efaa8d071faeaf09b50f"
+  },
+  {
+    "path": "task1_plants/artifacts/submission_verified_09470.csv",
+    "source": "D:\\001\\Machine Learning\\2026task1\\final_09470\\submission_final.csv",
+    "sha256": "1cf37beec86f1a5585e391f5a00cab01b32638ce68159827b7151ad13b9f58f2"
+  },
+  {
+    "path": "task2_faces/code/fer_final_historical_b2.py",
+    "source": "D:\\001\\Machine Learning\\2026task2_training\\fer_final.py",
+    "sha256": "f1529f40f67b22c657976632f571b35f75fc949be062da3cc2c975c1394aea46"
+  },
+  {
+    "path": "task2_faces/artifacts/FINAL_SUMMARY.json",
+    "source": "D:\\001\\Machine Learning\\fer_push80_backup\\fer_push80\\FINAL_SUMMARY.json",
+    "sha256": "2f5aef885e4f4736ec94e8b31e051e1976a0e6675da88db618b090d72d7178f3"
+  },
+  {
+    "path": "task2_faces/artifacts/run_config.json",
+    "source": "D:\\001\\Machine Learning\\fer_push80_backup\\fer_push80\\run_config.json",
+    "sha256": "bdbfa2886cf2a20b32417a6907d639fbbf143a126b72559046ac4c637e3cfcf7"
+  },
+  {
+    "path": "task2_faces/artifacts/selected_validation_probabilities.csv",
+    "source": "D:\\001\\Machine Learning\\fer_push80_backup\\fer_push80\\selected_validation_probabilities.csv",
+    "sha256": "c3cade1eb1d60dc9946b14c0461e65c08ce056781695ff550493d36a917d0e5c"
+  },
+  {
+    "path": "task2_faces/artifacts/selected_test_probabilities.csv",
+    "source": "D:\\001\\Machine Learning\\fer_push80_backup\\fer_push80\\selected_test_probabilities.csv",
+    "sha256": "a87f3fbd29074c495c278f13e0250bff9bb5c9caf1e34652147008e035202170"
+  },
+  {
+    "path": "task2_faces/artifacts/submission_SELECTED.csv",
+    "source": "D:\\001\\Machine Learning\\fer_push80_backup\\fer_push80\\submission_SELECTED.csv",
+    "sha256": "c1996da00f36ee623ca728a70c17ca3b3efa703da59536b135a3c9af1c789012"
+  },
+  {
+    "path": "task2_faces/artifacts/ensemble_scores.csv",
+    "source": "D:\\001\\Machine Learning\\fer_push80_backup\\fer_push80\\ensemble_scores.csv",
+    "sha256": "4fe615e6711927fa1de3aaa9f2df675a785590992b0296307203110f37a0262f"
+  },
+  {
+    "path": "task2_faces/artifacts/submission_R2_75_25.csv",
+    "source": "C:\\Users\\xuruo\\Downloads\\submission_R2_75_25.csv",
+    "sha256": "14ab5a69fbbeed4f121ee59e2081a2698f00858455259c22c42bc59f4b2e0491"
+  },
+  {
+    "path": "task3_fovea/code/train_seed192_ensemble.py",
+    "source": "D:\\001\\Machine Learning\\2026task3\\train_seed192_ensemble.py",
+    "sha256": "a88371738f3d142a72dd27fcf0988587d001e2a3b2233613964dfd5fe1439607"
+  },
+  {
+    "path": "task3_fovea/code/train_seed192_three_seed.py",
+    "source": "D:\\001\\Machine Learning\\2026task3\\train_seed192_three_seed.py",
+    "sha256": "a6ef704302995119efeb4eef00889adee7aa51669b119eb3e35ae572b0c6813b"
+  },
+  {
+    "path": "task3_fovea/code/train_transfer384.py",
+    "source": "D:\\001\\Machine Learning\\2026task3\\train_transfer384.py",
+    "sha256": "bd20328333d2f59bcd21887ab1ba2a471264b8d38bd7d201afd4dd2b246f6998"
+  },
+  {
+    "path": "task3_fovea/code/infer_imagenet_exploratory.py",
+    "source": "D:\\001\\Machine Learning\\2026task3\\infer_imagenet_exploratory.py",
+    "sha256": "b1f9475163789f9ab3ecd0b38e58718cd3e5d0246f40af8f889d409f6c5569d3"
+  },
+  {
+    "path": "task3_fovea/code/train_sigma027.py",
+    "source": "D:\\001\\Machine Learning\\2026task3\\train_sigma027.py",
+    "sha256": "73362fc4f880cc7a2f12be892c76543985d269daa9ed9a1cca0fd5c423b9e73a"
+  },
+  {
+    "path": "task3_fovea/artifacts/imagenet384_half_exploratory_v1/metrics.json",
+    "source": "D:\\001\\Machine Learning\\2026task3\\experiments\\imagenet384_half_exploratory_v1\\metrics.json",
+    "sha256": "45783f40561f9be665db4c58cbe1b28f0bafd7971f70b40f10dc78c9a7ba40d2"
+  },
+  {
+    "path": "task3_fovea/artifacts/imagenet384_half_exploratory_v1/submission.csv",
+    "source": "D:\\001\\Machine Learning\\2026task3\\experiments\\imagenet384_half_exploratory_v1\\submission.csv",
+    "sha256": "937f5a04565f72a1f2e20dacbbebe937f422ba81883d68d42b25572848758847"
+  },
+  {
+    "path": "task3_fovea/artifacts/imagenet384_half_exploratory_v1/submission-record.json",
+    "source": "D:\\001\\Machine Learning\\2026task3\\experiments\\imagenet384_half_exploratory_v1\\submission-record.json",
+    "sha256": "40acd9fc9a5b491b7c6b5b1e568fc6f2317866f91725d1a0960ff1f5ccf390c6"
+  },
+  {
+    "path": "task3_fovea/artifacts/resnet18_sigma027_matched384_v1/metrics.json",
+    "source": "D:\\001\\Machine Learning\\2026task3\\experiments\\resnet18_sigma027_matched384_v1\\metrics.json",
+    "sha256": "636f235700be6ed63f486d0fde324bf249f5b4fbcecd029ce302f5bbe43213e1"
+  },
+  {
+    "path": "task3_fovea/artifacts/resnet18_sigma027_matched384_v1/submission.csv",
+    "source": "D:\\001\\Machine Learning\\2026task3\\experiments\\resnet18_sigma027_matched384_v1\\submission.csv",
+    "sha256": "5945585b9d16116e787c4d5f494a9938c9320bbd28956f1e751b41e080741eb0"
+  },
+  {
+    "path": "task3_fovea/artifacts/resnet18_sigma027_matched384_v1/submission-record.json",
+    "source": "D:\\001\\Machine Learning\\2026task3\\experiments\\resnet18_sigma027_matched384_v1\\submission-record.json",
+    "sha256": "53d4e2eb45e5912472bc8f7f1860aa5aebaa00880bca2fd1bcbc23f526540d11"
+  },
+  {
+    "path": "task3_fovea/artifacts/official_scores.json",
+    "source": "D:\\001\\Machine Learning\\course_report\\sources\\task3_submissions_live.json",
+    "sha256": "ee2b2e34f929833e5f32a4ee11df3da8f00dadf8fa473450d804a0f9584aa7ce"
+  },
+  {
+    "path": "task4_vessels/artifacts/SOURCE_SHA256.json",
+    "source": "D:\\001\\Machine Learning\\course_report\\sources\\task4_highscore\\SOURCE_SHA256.json",
+    "sha256": "027e4e048fc23dcad7edcd2d0ea919b635c4ec201ae3b9aa1b544143ef5fc7fb"
+  },
+  {
+    "path": "task4_vessels/artifacts/PACKAGE_SHA256.json",
+    "source": "D:\\001\\Machine Learning\\course_report\\sources\\task4_highscore\\PACKAGE_SHA256.json",
+    "sha256": "663f4cf1e7227c3179ccd66c65809f510ca39fcf9330162758c59978284d7db8"
+  },
+  {
+    "path": "task4_vessels/artifacts/checkpoint_inventory.json",
+    "source": "D:\\001\\Machine Learning\\course_report\\sources\\task4_highscore\\checkpoint_inventory.json",
+    "sha256": "4b7880ea89ebbaa848bbb70649b7b478ea668608af0230d3546f4213504a366f"
+  },
+  {
+    "path": "task4_vessels/artifacts/runtime_versions.json",
+    "source": "D:\\001\\Machine Learning\\course_report\\sources\\task4_highscore\\runtime_versions.json",
+    "sha256": "7182aa2848a099b70d9d37ba3e73ac43797777a2288f8cdc3b985d146811e159"
+  },
+  {
+    "path": "task4_vessels/artifacts/submission_public_0861143.csv",
+    "source": "D:\\001\\Machine Learning\\course_report\\sources\\task4_highscore\\submission_public_0861143.csv",
+    "sha256": "fbe7b01f8f8382da20ebf3a5df0f34d3de49e536659e34e035ca72dc3b3cf045"
+  },
+  {
+    "path": "task4_vessels/code/train.py",
+    "source": "D:\\001\\Machine Learning\\2026task-4\\runs\\fr_dense64_submit_v1\\train.py",
+    "sha256": "af6b5a78fc267aca04bed5d9557c3c7ca50c97994ec958047e7b617c888f362a"
+  },
+  {
+    "path": "task4_vessels/code/kernel-spec.json",
+    "source": "D:\\001\\Machine Learning\\2026task-4\\runs\\fr_dense64_submit_v1\\kernel-spec.json",
+    "sha256": "a5d8c9ee4a1fca6bc127d6e8e1a65ef792241b1bf912b1f8907e778fdbc752dd"
+  },
+  {
+    "path": "task4_vessels/code/test_submission.py",
+    "source": "D:\\001\\Machine Learning\\2026task-4\\runs\\fr_dense64_submit_v1\\test_submission.py",
+    "sha256": "89e0476b4f045d5a6946b5b373c208f1cab008ee46a0aa8387f979da9e0790b5"
+  },
+  {
+    "path": "task4_vessels/code/verify_results.py",
+    "source": "D:\\001\\Machine Learning\\2026task-4\\runs\\fr_dense64_submit_v1\\verify_results.py",
+    "sha256": "b475e71accda56b7a6764eb339b7d2cc74d78ac56f132639f5a7e5a9ddd2e093"
+  },
+  {
+    "path": "task4_vessels/code/provenance.json",
+    "source": "D:\\001\\Machine Learning\\2026task-4\\runs\\fr_dense64_submit_v1\\provenance.json",
+    "sha256": "2b32b8d43900ea9d6aefb7a71c0611669cd425bd674dea316c5d13315b45fff8"
+  }
+]
